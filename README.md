@@ -28,9 +28,9 @@
 
 ## 📫 Connect with Me
 
-- Facebook: [Your FB link]
-- LinkedIn: [Your LinkedIn link]
-- Email: [Your email (optional)]
+- Facebook: [https://www.facebook.com/share/1LDLiGFSYm/]
+- LinkedIn: [https://www.linkedin.com/in/abdul-nafay-sohail-863818314/]
+- 
 
 ---
 
