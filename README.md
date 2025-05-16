@@ -38,8 +38,8 @@
 ## 📫 Connect with Me:
 
 - Facebook: [https://www.facebook.com/share/16q8aXDhWG/]
-- LinkedIn: []
-- Email: [Your email (optional)]
+- LinkedIn: https://www.linkedin.com/in/abdul-nafay-sohail-863818314/[]
+- Email: [cyclopesbetter@gmail.com]
 
 ---
 
