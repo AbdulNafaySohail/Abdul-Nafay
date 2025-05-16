@@ -30,7 +30,7 @@
 
 - Facebook: [https://www.facebook.com/share/1LDLiGFSYm/]
 - LinkedIn: [https://www.linkedin.com/in/abdul-nafay-sohail-863818314/]
-- 
+
 
 ---
 
