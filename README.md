@@ -1,43 +1,46 @@
-<h1 align="center">Hi 👋, I'm Abdul Nafay</h1>
-<h3 align="center">A passionate beginner Web Developer on a learning journey!</h3>
+# Hi 👋, I'm Abdul Nafay
+
+*A passionate beginner Web Developer on a learning journey!*
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Web and App Development**
-- 👨‍🎓 I know **C, C++, HTML, CSS, Bootstrap**, and **JavaScript**
-- 🎯 My goal is to become a **Full Stack Developer**
-- 💬 Ask me about basic frontend development
+- 🌱 Currently learning *Web and App Development*
+- 👨‍🎓 I know *C, C++, HTML, CSS, Bootstrap, and **JavaScript*
+- 🎯 My goal is to become a *Full Stack Developer*
+- 💬 Ask me about *basic frontend development*
 - ⚡ Fun Fact: I love turning code into real-world solutions!
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠 Languages and Tools:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats:
 
-- Facebook: [https://www.facebook.com/share/1LDLiGFSYm/]
-- LinkedIn: [https://www.linkedin.com/in/abdul-nafay-sohail-863818314/]
+![Abdul Nafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulNafaySohail&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulNafaySohail&layout=compact&theme=radical)
 
----
-
-## 🚀 My Projects
-
-Check out my repositories below. I’m regularly updating them as I learn and grow!
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdulNafaySohail&theme=radical&border_radius=5)
 
 ---
 
-> _“Code. Learn. Build. Repeat.”_
+## 📫 Connect with Me:
+
+- [Facebook](https://www.facebook.com/share/1LDLiCr9TzL2sQjE/)
+- 📧 Email: cyclopesbetter@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/abdul-nafay-sohail-863818314/)
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
