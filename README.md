@@ -37,9 +37,9 @@
 
 ## 📫 Connect with Me:
 
-- [Facebook](https://www.facebook.com/share/1LDLiCr9TzL2sQjE/)
-- 📧 Email: cyclopesbetter@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/abdul-nafay-sohail-863818314/)
+- Facebook: [https://www.facebook.com/share/16q8aXDhWG/]
+- LinkedIn: []
+- Email: [Your email (optional)]
 
 ---
 
